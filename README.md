@@ -1,7 +1,7 @@
 # Purple-Palace
-Escapism - Musicophilia - Surrealism \
+Escapism - Musicophilia - Surrealism
 
-*Team Members* \
+*Team Members*
 
 Madi - Coordinator, modeling, sound, environmental design \
 Ashe - Character design, modeling, environmental design, animation \
